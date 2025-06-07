@@ -1,0 +1,45 @@
+# Compiled binaries and object files
+*.o
+*.obj
+*.lo
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+
+# Build system folders and files
+build/
+bin/
+lib/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Debug symbols and crash dumps
+*.dSYM/
+*.stackdump
+*.core
+*.gdb
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
